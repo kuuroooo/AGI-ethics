@@ -1,0 +1,8 @@
+{
+    "successful_attacks": 3,
+    "adversarial_examples_generated": 100,
+    "failed_attacks": 3,
+    "skipped_attacks": 6,
+    "original_accuracy": 0.75,
+    "attack_success_rate": 0.5
+}
